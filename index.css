@@ -1,6 +1,7 @@
 body {
   padding: 0;
   margin: 0;
+  background-color: pink;
 }
 .nav-bar {
   display: inline-flex;
@@ -16,7 +17,7 @@ body {
 #uniName {
   padding-left: 430px;
   margin-top: 2rem;
-  color: rgb(29, 32, 32);
+  color: rgb(235, 224, 226);
 }
 #btn {
   display: flex;
@@ -35,7 +36,8 @@ ul {
 }
 .a:hover {
   background-color: aqua;
-  color: white;
+  color: black;
+  font-size: 25px;
 }
 .pic {
   width: 300px;
