@@ -70,6 +70,9 @@ img {
 #copyright {
   text-align: center;
 }
+.dis{
+  display: inline-flex;
+}
 
 /* Mobile Styles */
 @media (max-width: 768px) {
